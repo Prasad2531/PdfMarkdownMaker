@@ -1,0 +1,6 @@
+{
+  "name": "Wiki Genie",
+  "description": "AI-powered wiki generator that transforms PDF sets into cross-referenced Markdown libraries for Obsidian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
