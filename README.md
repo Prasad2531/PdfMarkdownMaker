@@ -7,7 +7,9 @@ such a step (unstructured knowledge -> knowledge graph) has NOT been this simple
 In the future, you can use an agent (eg Claude Code) go through the pages, and answer your plaintext questions! Overall we've built a tool/toy that can digest PDFs and create a browsable (by humans AND AI!!) wiki. Also in the future, DO set this up: https://github.com/Ar9av/obsidian-wiki.
 
 Some Screenshots.
-
+<div align="center">
+  <img width="1200" height="475" alt="GHBanner" src="./PromptImage.png" />
+</div>
 
 
 
