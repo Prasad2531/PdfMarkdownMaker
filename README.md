@@ -11,8 +11,10 @@ Some Screenshots.
   <img width="1200" height="475" alt="GHBanner" src="./Prompt_Screenshot.png" />
 </div>
 
-
-
+You can use Obsidian to view the markdown files in a knowledge graph view and understand the corelation between different topics locally on your computer.
+<div align="center">
+  <img width="1200" height="475" alt="GHBanner" src="./Graph_Obsidian.png" />
+</div>
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
