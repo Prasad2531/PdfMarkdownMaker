@@ -8,7 +8,7 @@ In the future, you can use an agent (eg Claude Code) go through the pages, and a
 
 Some Screenshots.
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="./PromptImage.png" />
+  <img width="1200" height="475" alt="GHBanner" src="./Prompt_Screenshot.png" />
 </div>
 
 
